@@ -8,10 +8,10 @@ This project demonstrates a complete end-to-end DevOps workflow, from developmen
 
 ## Status Badges
 
-[![Backend CI](https://github.com/HimanM/DevOps-Project-1/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/HimanM/DevOps-Project-1/actions/workflows/backend-ci.yml)
-[![Frontend CI](https://github.com/HimanM/DevOps-Project-1/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/HimanM/DevOps-Project-1/actions/workflows/frontend-ci.yml)
-[![Infrastructure Setup](https://github.com/HimanM/DevOps-Project-1/actions/workflows/infra-setup.yml/badge.svg)](https://github.com/HimanM/DevOps-Project-1/actions/workflows/infra-setup.yml)
-[![Deploy to VPS](https://github.com/HimanM/DevOps-Project-1/actions/workflows/deploy.yml/badge.svg)](https://github.com/HimanM/DevOps-Project-1/actions/workflows/deploy.yml)
+[![Backend CI](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/backend-ci.yml)
+[![Frontend CI](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/frontend-ci.yml)
+[![Infrastructure Setup](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/infra-setup.yml/badge.svg)](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/infra-setup.yml)
+[![Deploy to VPS](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/deploy.yml/badge.svg)](https://github.com/HimanM/devops-microservices-iac-pipeline/actions/workflows/deploy.yml)
 
 ## Table of Contents
 
@@ -302,10 +302,10 @@ Follow these steps to clone and set up this DevOps project on your local machine
 
 ```bash
 # Clone the repository from GitHub
-git clone https://github.com/HimanM/DevOps-Project-1.git
+git clone https://github.com/HimanM/devops-microservices-iac-pipeline.git
 
 # Navigate into the project directory
-cd DevOps-Project-1
+cd devops-microservices-iac-pipeline
 ```
 
 > **What this does:** Downloads all project files to your local machine and changes into the project directory.
@@ -981,7 +981,7 @@ This project is open source and available for educational purposes.
 **Himan Manduja**
 
 - **GitHub:** [@HimanM](https://github.com/HimanM)
-- **Project Repository:** [DevOps-Project-1](https://github.com/HimanM/DevOps-Project-1)
+- **Project Repository:** [devops-microservices-iac-pipeline](https://github.com/HimanM/devops-microservices-iac-pipeline)
 
 ### Connect & Support
 

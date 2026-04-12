@@ -65,7 +65,7 @@ export default function Home() {
 
   const fetchWorkflows = async () => {
     try {
-      const res = await fetch("https://api.github.com/repos/HimanM/DevOps-Project-1/actions/runs?per_page=5");
+      const res = await fetch("https://api.github.com/repos/HimanM/devops-microservices-iac-pipeline/actions/runs?per_page=5");
       if (res.ok) {
         const json = await res.json();
         setWorkflows(json.workflow_runs);
@@ -121,7 +121,7 @@ export default function Home() {
               DevOps Project 1
             </div>
             <a
-              href="https://github.com/HimanM/DevOps-Project-1"
+              href="https://github.com/HimanM/devops-microservices-iac-pipeline"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 p-2 px-4 rounded-full bg-slate-800/50 border border-slate-700 text-xs font-medium text-slate-300 hover:text-white hover:border-cyan-500/50 transition-all"
