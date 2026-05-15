@@ -1,3 +1,9 @@
+<!-- BANNER_START -->
+<p align="center">
+  <img src="./.banner/banner.svg" width="100%" alt="Project Banner">
+</p>
+<!-- BANNER_END -->
+
 # Full-Stack DevOps Platform
 
 > A comprehensive learning platform for mastering modern DevOps practices through hands-on implementation
